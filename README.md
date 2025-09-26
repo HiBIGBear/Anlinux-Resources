@@ -22,4 +22,4 @@ To bootstrap a system, simply run:
    
 For example: 
 
-> ./bootstrap.sh armhf /home/user/ubuntu/armhf
+> ./bootstrap.sh armhf /home/user/ubuntu/armhf 
